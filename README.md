@@ -3,10 +3,6 @@
 PROBLEM STATEMENT
 
 Objective:
-To categorise the countries using socio-economic and health factors that determine the overall development of the country.
-About organization:
-HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities.
-Problem Statement:
-HELP International have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. So, CEO has to make decision to choose the countries that are in the direst need of aid. Hence, your Job as a Data scientist is to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most.
+Built an end-to-end data science project to classify countries as Developed, Developing, or Underdeveloped using socio-economic, health, and demographic indicators. Applied clustering (K-Means) to segment countries and later trained a supervised classification model to predict development status. Visualized global development patterns using interactive choropleth maps. Delivered actionable insights to help NGOs prioritize regions requiring immediate attention.
 	
 ![Uploading image.png…]()
